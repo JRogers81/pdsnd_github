@@ -9,6 +9,8 @@ Explore US Bikeshare Data
 ### Description
 This project uses data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. With a few inputs, users can compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
+The Python file was written using Python v3.9.12 and Pandas v1.4.2.
+
 ### Files used
 * bikeshare.py
 * city data files
