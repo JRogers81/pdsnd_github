@@ -136,7 +136,7 @@ def time_stats(df):
     else:
         print('The most popular hour is: 0{}00.'.format(popular_hour))
 
-# Print the time it too to complete this function
+    # Print the time it too to complete this function
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
