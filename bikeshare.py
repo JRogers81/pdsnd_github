@@ -3,6 +3,9 @@
 Created on Thu Jul 14 11:37:16 2022
 
 @author: Jason Rogers
+
+Python version 3.9.12
+Pandas version 1.4.2
 """
 
 import time
